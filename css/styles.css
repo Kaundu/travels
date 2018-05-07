@@ -1,0 +1,22 @@
+h1{
+  color: #f7325e
+}
+p{
+  color: rgb(227, 36, 179)
+}
+body{
+  font-family: fantasy;
+  text-align: center;
+  background-color: rgba(247, 243, 135, 0.45)
+}
+.tropical{
+  color: rgb(59, 129, 233)
+}
+.popular{
+  font-style: italic;
+  color: rgb(128, 244, 212)
+}
+html{
+  background-image: url("../images/travelpack.jpg");
+  background-size: cover;
+}
